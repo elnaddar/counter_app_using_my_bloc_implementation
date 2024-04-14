@@ -2,6 +2,10 @@
 
 This Flutter project demonstrates a simple counter application using the BLoC (Business Logic Component) pattern to manage state. The app increases or decreases a counter value when a button is pressed. This project is intended as a practical example to understand how to implement and use BLoC in Flutter applications.
 
+## Preview
+
+You can see a live demo of the app here: [Flutter Counter App Demo](https://elnaddar.github.io/counter_app_using_my_bloc_implementation/)
+
 ## Features
 
 - **Increment and Decrement Functionality**: Users can increase or decrease the counter value using floating action buttons.
@@ -47,7 +51,6 @@ flutter run
 ### Usage
 
 The main screen presents a counter and two buttons. Press the "+" button to increase the counter and the "-" button to decrease it. The current state of the counter is managed by `CounterBloc` and is displayed at the center of the home screen.
-
 
 ## Project Structure
 
